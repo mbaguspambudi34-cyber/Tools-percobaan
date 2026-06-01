@@ -1,0 +1,6 @@
+{
+  "name": "NewsShorts AI",
+  "description": "Create professional vertical YouTube Shorts videos from breaking news with automatic AI narratives and stunning stylized subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
